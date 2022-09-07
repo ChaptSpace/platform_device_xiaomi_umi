@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_umi.mk
+    $(LOCAL_DIR)/hentai_umi.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_umi-eng \
-    lineage_umi-user \
-    lineage_umi-userdebug
+    hentai_umi-eng \
+    hentai_umi-user \
+    hentai_umi-userdebug
